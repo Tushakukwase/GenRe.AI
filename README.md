@@ -294,3 +294,5 @@ If you encounter any issues or have questions:
 **Happy Detecting! 🎉**
 
 *Built with ❤️ using TensorFlow, Keras, and Streamlit*
+#   G e n R e . A I  
+ 
